@@ -1,8 +1,0 @@
-#!/bin/sh
-set -e
-
-make ARCH=sh CONFIG_STIH407_DUMMY=y clean
-make ARCH=sh CONFIG_STIH407_DUMMY=y
-make ARCH=sh CONFIG_STIH407_DUMMY=y clean
-make ARCH=sh CONFIG_STIH407_DUMMY=y CONFIG_STG_DEBUG=y
-

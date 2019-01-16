@@ -1,3 +1,0 @@
-#!/bin/bash
-
-exec /usr/i486-pc-linux-gnu/binutils-bin/2.21/ar "$@"

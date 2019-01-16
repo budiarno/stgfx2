@@ -1,3 +1,0 @@
-case "$machine" in
-st2*)		base_machine=st200 machine=st200/$machine ;;
-esac
